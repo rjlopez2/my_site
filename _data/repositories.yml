@@ -1,12 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - rjlopez2
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - rjlopez2/napari-omaas
+  - rjlopez2/napari-sif-reader 
+  - rjlopez2/napari-mat-file-reader 
+  - rjlopez2/OMAAS 
+  - Chris-N-K/napari-time_series_plotter 
+  - rjlopez2/ADS_CAS_Bern_2020 
+  - rjlopez2/cpvt-serca_paper 
+  - rjlopez2/AnlysisOfWaves
+  - rjlopez2/SR_experiments_protocol
+  - rjlopez2/cell_quantitation_app
