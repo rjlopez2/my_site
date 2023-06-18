@@ -71,7 +71,7 @@
       year: 2010-2015
       description:
         - Local and global calium signals in skeletal and smooth muscle cells carrying a Malignant Hypertehrmia mutation in the RyR calcium channel.
-        - title: Supervisor
+        - title: Supervisor(s)
           contents:
             - Prof. Dr. Susan Treves.
             - Prof. Dr. Med. Francesco Zorzato.
@@ -90,7 +90,11 @@
       description: A napari plugin to acquire and analyze optical mapping data.
     - title: <a href="https://github.com/rjlopez2/napari-sif-reader#napari-sif-reader">napari-sif-reader</a>
       year: 2022-now
-      description: A napari plugin to read .sif format files from Andor Technology .
+      description: A napari plugin to read .sif format files from Andor Technology.
+    - title: <a href="https://github.com/rjlopez2/AnlysisOfWaves#anlysisofwaves">AnlysisOfWaves</a>
+      year: 2020-2022
+      description: A R package containing methods for analysis of calcium waves.
+
 
 - title: Honors and Awards
   type: time_table
@@ -115,4 +119,4 @@
   type: list
   contents:
     # - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
-    - Birthwatching, Astrophotography, IoT, tinkering, traveling.
+    - Birthwatching, traveling, Astrophotography, IoT, tinkering.
