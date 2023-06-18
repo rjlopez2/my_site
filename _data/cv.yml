@@ -6,7 +6,7 @@
     # - name: Date of Birth
     #   value: 14th March 1879
     - name: Languages
-      value: English, Spanish, German
+      value: Spanish, English, German
       
 - title: Education
   type: time_table
@@ -15,28 +15,25 @@
       institution: University of Bern, Bern, Switzerland
       year: 2021-2022
       description:
-        - Grasp theoretical and practical foundations of the full cycle from data acquisition planning, description and visualisation of data, inference, machine learning, best practices ethics and deep learning.
+        - "Grasp theoretical and practical foundations of the full data cycle: from acquisition planning, description and visualisation, to inference, machine learning, best practices ethics and deep learning."
     - title: PhD in Cell Biology
       institution: University of Basel, Basel, Switzerland
       year: 2016-2020
       description:
         - International PhD Program In Biomedicine and Cell Bioogy.
-        - "Thesis: Study of Calcium Sparks in Skeletal and smooth muscle cells in normal and pathological conditions"
-        - title: Supervisors
-          contents:
-            - Prof. Dr. Susan Treves.
-            - Prof. Dr. Med. Francesco Zorzato.
+        - title: "Thesis:"
+          contents: 
+            -  Study of Calcium Sparks in Skeletal and smooth muscle cells in normal and pathological conditions
+
     - title: Bachelor in Biology
       institution: University of Carabobo, Valencia, Venezuela
       year: 2010-2015
       description:
-        - Mayor in General Biology
-        - "Thesis: Efecto del ácido 3-O-piranosil-ursólico extraído de hojas de Aspidosperma fendleri y del ácido pomólico proveniente de hojas de Licania pittieri sobre cardiomiocitos de rata"
-        - title: Supervisors
+        - Mayor in Biology
+        - title: "Thesis:"
           contents:
-            - Dr. Pura Bolaños.
-            - Prof. Dr. Omar Estrada.
-            - Prof. Dr. Carlo Caputo.
+            - Efecto del ácido 3-O-piranosil-ursólico extraído de hojas de Aspidosperma fendleri y del ácido pomólico proveniente de hojas de Licania pittieri sobre cardiomiocitos de rata
+
 
 
 - title: Experience
@@ -44,7 +41,7 @@
   contents:
     - title: Research Assistant
       institution: Department of Physiology, University of Bern
-      year: 2022 - Present
+      year: 2022 - Now
       description:
         - Electro-Mechanical crosstalk in the beating heart in the long and short QT-syndromes.
         - title: Supervisor
@@ -53,8 +50,8 @@
         - title: Technics
           contents:
             - Image acquisition and analysis of of voltage and calcium cardiac optical mapping signals.
-            - GPU accelerated for advanced image processing, segmentation, motion tracking, etc.
-            - GUI and software development, data anapysis and visulaization.
+            - GPU accelerated advanced image processing, segmentation, motion tracking.
+            - GUI and software development, data analysis and visulaization.
     - title: Posdoctoral Fellow
       institution: Department of Physiology, University of Bern
       year: 2018 - 2022
@@ -77,6 +74,7 @@
         - title: Supervisor
           contents:
             - Prof. Dr. Susan Treves.
+            - Prof. Dr. Med. Francesco Zorzato.
         - title: Technics
           contents:
             - Calcium signaling 
@@ -87,34 +85,34 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/rjlopez2/napari-omaas#napari-omaas">napari-omaas</a>
+      year: 2022-now
+      description: A napari plugin to acquire and analyze optical mapping data.
+    - title: <a href="https://github.com/rjlopez2/napari-sif-reader#napari-sif-reader">napari-sif-reader</a>
+      year: 2022-now
+      description: A napari plugin to read .sif format files from Andor Technology .
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2015
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - Gordon Research Conferences Travel Grant 
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    # - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Birthwatching, Astrophotography, analog photography, traveling.
