@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rjlopez2.github.io/live-testing/sitemap.xml
+Sitemap: https://rjlopez2.github.io/my_site/sitemap.xml
