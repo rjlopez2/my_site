@@ -27,7 +27,5 @@ social: true  # includes social icons at the bottom of the page
  Hi there!
  
  Welcome to my personal website. 
- Her you will find information about me and some of my interests.
-
- !!! work in progress !!!
+ Here you will find some quick information about me and my interests. Stay tuned!
 
