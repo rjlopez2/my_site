@@ -7,6 +7,8 @@
     #   value: 14th March 1879
     - name: Languages
       value: Spanish, English, German
+    - name: Place of Residence
+      value: Basel - Switzerland
       
 - title: Education
   type: time_table
@@ -18,21 +20,21 @@
         - "Grasp theoretical and practical foundations of the full data cycle: from acquisition planning, description and visualisation, to inference, machine learning, best practices ethics and deep learning."
     - title: PhD in Cell Biology
       institution: University of Basel, Basel, Switzerland
-      year: 2016-2020
+      year: 2012-2016
       description:
         - International PhD Program In Biomedicine and Cell Bioogy.
         - title: "Thesis:"
           contents: 
-            -  Study of Calcium Sparks in Skeletal and smooth muscle cells in normal and pathological conditions
+            -  Study of Calcium Sparks in Skeletal and smooth muscle cells in normal and pathological conditions.
 
     - title: Bachelor in Biology
       institution: University of Carabobo, Valencia, Venezuela
-      year: 2010-2015
+      year: 2005-2011
       description:
         - Mayor in Biology
         - title: "Thesis:"
           contents:
-            - Efecto del ácido 3-O-piranosil-ursólico extraído de hojas de Aspidosperma fendleri y del ácido pomólico proveniente de hojas de Licania pittieri sobre cardiomiocitos de rata
+            - Efecto del ácido 3-O-piranosil-ursólico extraído de hojas de Aspidosperma fendleri y del ácido pomólico proveniente de hojas de Licania pittieri sobre cardiomiocitos de rata.
 
 
 
@@ -51,7 +53,7 @@
           contents:
             - Image acquisition and analysis of of voltage and calcium cardiac optical mapping signals.
             - GPU accelerated advanced image processing, segmentation, motion tracking.
-            - GUI and software development, data analysis and visulaization.
+            - GUI and software development, data analysis and visualization.
     - title: Posdoctoral Fellow
       institution: Department of Physiology, University of Bern
       year: 2018 - 2022
@@ -68,7 +70,7 @@
 
     - title: PhD Researcher
       institution: University of Basel, Basel, Switzerland
-      year: 2010-2015
+      year: 2012-2016
       description:
         - Local and global calium signals in skeletal and smooth muscle cells carrying a Malignant Hypertehrmia mutation in the RyR calcium channel.
         - title: Supervisor(s)
@@ -77,9 +79,9 @@
             - Prof. Dr. Med. Francesco Zorzato.
         - title: Technics
           contents:
-            - Calcium signaling 
+            - Calcium signaling.
             - Confocal microscopy.
-            - Biochemestry and molecular biology
+            - Biochemestry and molecular biology.
 
 
 - title: Open Source Projects
