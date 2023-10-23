@@ -105,9 +105,9 @@
       items: 
         - Gordon Research Conferences Travel Grant 
 
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
 #     - title: Topic 1.
 #       items: 
 #         - Description 1.
@@ -120,5 +120,4 @@
 - title: Other Interests
   type: list
   contents:
-    # - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
-    - Birthwatching, traveling, Astrophotography, IoT, tinkering.
+    - <u>Hobbies:</u> Birthwatching, traveling, Astrophotography, IoT, tinkering.
