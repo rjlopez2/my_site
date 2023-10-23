@@ -25,7 +25,7 @@
         - International PhD Program In Biomedicine and Cell Biology.
         - title: "Thesis:"
           contents: 
-            -  Study of Calcium Sparks in Skeletal and smooth muscle cells in normal and pathological conditions.
+            -  Study of calcium sparks in skeletal and smooth muscle cells in normal and pathological conditions.
 
     - title: Bachelor in Biology
       institution: University of Carabobo, Valencia, Venezuela
@@ -84,7 +84,7 @@
             - Biochemestry and molecular biology.
 
 
-- title: Open Source Projects
+- title: Open Source Contributions
   type: time_table
   contents:
     - title: <a href="https://github.com/rjlopez2/napari-omaas#napari-omaas">napari-omaas</a>
