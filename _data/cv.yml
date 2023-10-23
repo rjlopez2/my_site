@@ -1,14 +1,14 @@
-- title: Quick Info
-  type: map
-  contents:
-    - name: Full Name
-      value: Ruben Jose Lopez Dicuru
-    # - name: Date of Birth
-    #   value: 14th March 1879
-    - name: Languages
-      value: Spanish, English, German
-    - name: Place of Residence
-      value: Basel - Switzerland
+#- title: Quick Info
+#  type: map
+#  contents:
+#    - name: Full Name
+#      value: Ruben Jose Lopez Dicuru
+#    # - name: Date of Birth
+#    #   value: 14th March 1879
+#    - name: Languages
+#      value: Spanish, English, German
+#    - name: Place of Residence
+#      value: Basel - Switzerland
       
 - title: Education
   type: time_table
