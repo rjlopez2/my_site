@@ -93,6 +93,9 @@
     - title: <a href="https://github.com/rjlopez2/napari-sif-reader#napari-sif-reader">napari-sif-reader</a>
       year: 2022-now
       description: A napari plugin to read .sif format files from Andor Technology.
+    - title: <a href="https://github.com/fujiisoup/sif_parser#sif_parser">sif_parser</a>
+      year: 2023-now
+      description: A small package to read Andor Technology Multi-Channel files.
     - title: <a href="https://github.com/rjlopez2/AnlysisOfWaves#anlysisofwaves">AnlysisOfWaves</a>
       year: 2020-2022
       description: A R package containing methods for analysis of calcium waves.
