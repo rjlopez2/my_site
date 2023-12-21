@@ -13,6 +13,10 @@
 - title: Education
   type: time_table
   contents:
+    - title: CAS in Advance Machine Learning
+      institution: University of Bern, Bern, Switzerland
+      year: 2023-present
+      description: "Design, tune, train and measure performance of neural networks with advanced deep learning libraries."
     - title: CAS in Applied Data Science
       institution: University of Bern, Bern, Switzerland
       year: 2021-2022
