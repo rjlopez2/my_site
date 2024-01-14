@@ -10,37 +10,6 @@
 #    - name: Place of Residence
 #      value: Basel - Switzerland
       
-- title: Education
-  type: time_table
-  contents:
-    - title: CAS in Advance Machine Learning
-      institution: University of Bern, Bern, Switzerland
-      year: 2023-present
-      description: "Design, tune, train and measure performance of neural networks with advanced deep learning libraries."
-    - title: CAS in Applied Data Science
-      institution: University of Bern, Bern, Switzerland
-      year: 2021-2022
-      description:
-        - "Grasp theoretical and practical foundations of the full data cycle: from planning, acquisition, exploration and visualisation, to inference, machine learning, deep learning, best practices and ethics."
-    - title: PhD in Cell Biology
-      institution: University of Basel, Basel, Switzerland
-      year: 2012-2016
-      description:
-        - International PhD Program In Biomedicine and Cell Biology.
-        - title: "Thesis:"
-          contents: 
-            -  Study of calcium sparks in skeletal and smooth muscle cells in normal and pathological conditions.
-
-    - title: Bachelor in Biology
-      institution: University of Carabobo, Valencia, Venezuela
-      year: 2005-2011
-      description:
-        - Mayor in Biology
-        - title: "Thesis:"
-          contents:
-            - Efecto del ácido 3-O-piranosil-ursólico extraído de hojas de Aspidosperma fendleri y del ácido pomólico proveniente de hojas de Licania pittieri sobre cardiomiocitos de rata.
-
-
 
 - title: Experience
   type: time_table
@@ -86,6 +55,38 @@
             - Calcium signaling.
             - Confocal microscopy.
             - Biochemestry and molecular biology.
+
+            
+- title: Education
+  type: time_table
+  contents:
+    - title: CAS in Advance Machine Learning
+      institution: University of Bern, Bern, Switzerland
+      year: 2023-present
+      description: "Design, tune, train and measure performance of neural networks with advanced deep learning libraries."
+    - title: CAS in Applied Data Science
+      institution: University of Bern, Bern, Switzerland
+      year: 2021-2022
+      description:
+        - "Grasp theoretical and practical foundations of the full data cycle: from planning, acquisition, exploration and visualisation, to inference, machine learning, deep learning, best practices and ethics."
+    - title: PhD in Cell Biology
+      institution: University of Basel, Basel, Switzerland
+      year: 2012-2016
+      description:
+        - International PhD Program In Biomedicine and Cell Biology.
+        - title: "Thesis:"
+          contents: 
+            -  Study of calcium sparks in skeletal and smooth muscle cells in normal and pathological conditions.
+
+    - title: Bachelor in Biology
+      institution: University of Carabobo, Valencia, Venezuela
+      year: 2005-2011
+      description:
+        - Mayor in Biology
+        - title: "Thesis:"
+          contents:
+            - Efecto del ácido 3-O-piranosil-ursólico extraído de hojas de Aspidosperma fendleri y del ácido pomólico proveniente de hojas de Licania pittieri sobre cardiomiocitos de rata.
+
 
 
 - title: Open Source Contributions
